@@ -1,0 +1,28 @@
+name: crusader
+favicon: null
+layout_spectrum: 0.1736785403918475
+typography_spectrum: 0.6753634049091488
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7921427071560174
+  lightness: 0.7709568471182138
+  saturation: 0.7960164349060506
+  rhythmicContrast: 0.6188721021171659
+purpose: []
